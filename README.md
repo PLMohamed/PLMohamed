@@ -32,14 +32,7 @@
 <br><br/>
 <a href="https://github.com/PLMohamed">
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PLMohamed&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PLMohamed&show_icons=true&theme=merko"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=PLMohamed&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PLMohamed&show_icons=true" />
 </picture>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PLMohamed&theme=dark" />
