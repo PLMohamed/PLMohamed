@@ -14,9 +14,16 @@
 
 <h3 align="center">Languages & Frameworks & Tools</h3>
 <h5 align="center">
-  <code></code>
-  <code></code>
-  <code></code>
+  <code><img title="html" src="IMAGES/html.svg" height="45"></code>
+  <code><img title="css" src="IMAGES/css.svg" height="45"></code>
+  <code><img title="javascript" src="IMAGES/javascript.svg" height="45"></code>
+  <code><img title="electron" src="IMAGES/electron.svg" height="45"></code>
+  <code><img title="node js" src="IMAGES/node-js.svg" height="45"></code>
+  <code><img title="mysql" src="IMAGES/mysql.svg" height="45"></code>
+  <code><img title="php" src="IMAGES/php.svg" height="45"></code>
+  <code><img title="visual studio code" src="IMAGES/vs-code.svg" height="45"></code>
+  <code><img title="java" src="IMAGES/java.svg" height="45"></code>
+  
 
 </h5>
 
