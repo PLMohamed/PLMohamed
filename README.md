@@ -12,6 +12,7 @@
 <li>My favorite programming language is JavaScript</li>
 </ul>
 
+<br>
 <h3 align="center">Languages & Frameworks & Tools</h3>
 <h5 align="center">
   <code><img title="html" src="IMAGES/html.svg" height="45"></code>
