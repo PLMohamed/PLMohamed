@@ -12,7 +12,7 @@
 <li>My favorite programming language is JavaScript</li>
 </ul>
 
-<br>
+<br/>
 <h3 align="center">Languages & Frameworks & Tools</h3>
 <h5 align="center">
   <code><img title="html" src="IMAGES/html.svg" height="45"></code>
@@ -27,8 +27,9 @@
   <code><img title="python" src="IMAGES/python.svg" height="45"></code>
   <code><img title="git" src="IMAGES/git.svg" height="45"></code>
   <code><img title="c" src="IMAGES/c.svg" height="45"></code>
-  
-
 </h5>
 
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PLMohamed&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/PLMohamed/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=PLMohamed&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/PLMohamed/github-readme-stats#gh-light-mode-only)
 
