@@ -31,10 +31,17 @@
 
 <br><br/>
 <a href="https://github.com/PLMohamed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PLMohamed&show_icons=true&theme=dark#gh-dark-mode-only" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PLMohamed&show_icons=true&theme=default#gh-light-mode-only" />
-</a>
-<a href="https://github.com/PLMohamed">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=PLMohamed&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=PLMohamed&show_icons=true&theme=merko"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PLMohamed&show_icons=true" />
+</picture>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PLMohamed&theme=dark" />
 </a>
 
