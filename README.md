@@ -23,6 +23,9 @@
   <code><img title="php" src="IMAGES/php.svg" height="45"></code>
   <code><img title="visual studio code" src="IMAGES/vs-code.svg" height="45"></code>
   <code><img title="java" src="IMAGES/java.svg" height="45"></code>
+  <code><img title="python" src="IMAGES/python.svg" height="45"></code>
+  <code><img title="git" src="IMAGES/git.svg" height="45"></code>
+  <code><img title="c" src="IMAGES/c.svg" height="45"></code>
   
 
 </h5>
