@@ -32,9 +32,12 @@
 <br><br/>
 <a href="https://github.com/PLMohamed">
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=PLMohamed&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PLMohamed&show_icons=true" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=PLMohamed&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PLMohamed&show_icons=true&theme=dark" />
 </picture>
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PLMohamed" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PLMohamed&theme=dark" />
+</picture>
 </a>
 
