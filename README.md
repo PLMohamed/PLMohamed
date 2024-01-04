@@ -28,7 +28,7 @@
   <code><img title="python" src="IMAGES/python.svg" height="45"></code>
   <code><img title="git" src="IMAGES/git.svg" height="45"></code>
   <code><img title="c" src="IMAGES/c.svg" height="45"></code>
-  <code><img title="drizzle orm" src="IMAGES/drizzle_orm.svg" height="45"></code>
+  <code><img title="drizzle orm" src="IMAGES/drizzle_orm.ico" height="45"></code>
 </h5>
 
 <br><br/>
