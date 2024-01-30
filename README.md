@@ -10,7 +10,7 @@
 <li>I'm currently studying for a license degree at Abdelhamid Ibn Badis University.</li>
 <li>I love coding , learning and discovering new things.</li>
 <li>My favorite programming language is JavaScript</li>
-<li>I'm currently learning MongoDB</li>
+<li>I'm currently learning React</li>
 </ul>
 
 <br/>
