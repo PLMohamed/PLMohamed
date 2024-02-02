@@ -10,7 +10,7 @@
 <li>I'm currently studying for a license degree at Abdelhamid Ibn Badis University.</li>
 <li>I love coding , learning and discovering new things.</li>
 <li>My favorite programming language is JavaScript</li>
-<li>I'm currently learning React</li>
+<li>I'm currently learning React & NextJs</li>
 </ul>
 
 <br/>
@@ -29,6 +29,8 @@
   <code><img title="git" src="IMAGES/git.svg" height="45"></code>
   <code><img title="c" src="IMAGES/c.svg" height="45"></code>
   <code><img title="drizzle orm" src="IMAGES/drizzle_orm.ico" height="45"></code>
+  <code><img title="React" src="IMAGES/react.ico" height="45"></code>
+
 </h5>
 
 <br><br/>
