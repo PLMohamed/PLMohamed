@@ -30,6 +30,7 @@
   <code><img title="c" src="IMAGES/c.svg" height="45"></code>
   <code><img title="drizzle orm" src="IMAGES/drizzle_orm.ico" height="45"></code>
   <code><img title="React" src="IMAGES/react.svg" height="45"></code>
+  <code><img title="Next js" src="IMAGES/next-js.svg" height="45"></code>
 
 </h5>
 
