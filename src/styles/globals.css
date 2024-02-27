@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --stroke-default: #27272a;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --stroke-default: #e2e8f0;
+    }
+}
+
+@supports (-webkit-text-stroke: 1px var(--stroke-default)) {
+    .text-stroke {
+        -webkit-text-stroke: 1px var(--stroke-color, var(--stroke-default));
+        color: transparent;
+    }
+}
